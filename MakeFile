@@ -1,0 +1,2 @@
+aaa:	
+	gcc -o main stopWord.c main.c
